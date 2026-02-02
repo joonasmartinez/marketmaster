@@ -1,0 +1,5 @@
+{
+  "name": "MarketMaster - Lista de Compras",
+  "description": "Um aplicativo intuitivo para gerenciar suas listas de compras de mercado, permitindo criar múltiplas listas e controlar itens com preços e quantidades.",
+  "requestFramePermissions": []
+}
